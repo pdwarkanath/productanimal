@@ -1,5 +1,6 @@
 # Product Animal
 
+## About
 
 🚀 If you're an entrepreneur looking to name your startup, a fun way to do it is combining the product name 🎁with that of an animal🐶
 
@@ -11,4 +12,23 @@
 
 📧 For questions, suggestions, get in touch dk@weekinmemes.com
 
+## Demo
+
 Check the live demo here: https://productanimal.com
+
+## Run it yourself
+
+To run this yourself (locally), git clone the repo and run the following commands
+
+```
+$> npm i 
+$> yarn start
+```
+
+To create a `build` that you can deploy. Run the following command:
+
+```
+$> yarn build
+```
+
+Check out https://create-react-app.dev/docs/deployment/ for deployment instructions.
