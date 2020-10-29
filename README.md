@@ -1,3 +1,6 @@
+# Product Animal
+
+
 🚀 If you're an entrepreneur looking to name your startup, a fun way to do it is combining the product name 🎁with that of an animal🐶
 
 👏 foodpanda, mailchimp, hostgator are just some successful companies that have used this formula. This app helps you find that brand name for you🙌
