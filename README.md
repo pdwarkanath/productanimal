@@ -7,3 +7,5 @@
 ❌ If you don't like it, hit 'GENERATE' again and we will try a new domain name🎉
 
 📧 For questions, suggestions, get in touch dk@weekinmemes.com
+
+Check the live demo here: https://productanimal.com
